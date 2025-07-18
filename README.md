@@ -23,7 +23,6 @@
 ### Support & Contact
 - **Email**: support@acediaaudio.com
 - **Website**: https://acediaaudio.com
-- **Documentation**: [User Manual](https://acediaaudio.com/docs/tremolo-viola)
 
 ### Legal
 TremoloViola is proprietary software. See [LICENSE](LICENSE) for terms of use.
