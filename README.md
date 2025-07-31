@@ -2,7 +2,7 @@
 
 **Professional tremolo effect by Acedia Audio**
 
-## Latest Version: v1.1.0
+## Latest Version: v1.1.1
 
 ### Download
 - **macOS**: [Download Installer](https://acediaaudio.com/b/tremolo-viola)  
