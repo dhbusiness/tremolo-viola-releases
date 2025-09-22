@@ -9,7 +9,7 @@
 - **Windows**: [Download Installer](https://acediaaudio.com/b/tremolo-viola)
 
 ### System Requirements
-- **macOS**: 10.15 (Catalina) or later
+- **macOS**: 13.0 or later
 - **Windows**: Windows 10 or later (64-bit)
 - **Formats**: VST3, Audio Units
 - **DAW**: Any compatible host software
